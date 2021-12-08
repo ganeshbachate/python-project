@@ -1,3 +1,3 @@
 print('hello python')
-print ("hey...")
+print("hey...")
 
